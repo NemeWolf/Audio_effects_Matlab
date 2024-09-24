@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\OneDrive - Universidad de Chile\\Universidad\\5to a\u00F1o\\DSP Audio\\Code_By_My\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramiro\\OneDrive - Universidad de Chile\\Universidad\\5to a\u00F1o\\DSP Audio\\Code_By_My\\01 Basic\\fade.m||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01 Basic\\fade.m||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fade.m",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\OneDrive - Universidad de Chile\\Universidad\\5to a\u00F1o\\DSP Audio\\Code_By_My\\01 Basic\\fade.m",
+              "RelativeDocumentMoniker": "01 Basic\\fade.m",
+              "ToolTip": "C:\\Users\\Ramiro\\OneDrive - Universidad de Chile\\Universidad\\5to a\u00F1o\\DSP Audio\\Code_By_My\\01 Basic\\fade.m",
+              "RelativeToolTip": "01 Basic\\fade.m",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVDhPjZNNaBNBFMf/2XxWTdIkbWqMSxprmmIPNi0K0iKKlXqpWgU9eBBBeih4KN6kBz148WDQg1A9\u002BAEiWkEDKqhIQIxS2kOxYhshiTUJyRZNWpKwm02y6\u002B5kE5N60B\u002B8fbMz8/7Me/NGBYUnr\u002BfEn2t5wGRD24Op599OXTlu5deU1T9MnD5Yj4EoisqoKiBz5uoLMXoJYik0T/4bufU4SEwJIVCKxxaDBiP\u002BIJYuX4BrRy/Cd26SeUEQiNXY19dVahQhAr3TsdHrDz\u002BmElPnMKZnUOFsYGcDILtU0okbTvppIaKVfU1E7Tjr9/f0D91gDWYj/f4ehpwmeHcZwMcTyFJuGH27UeR4FPkSBn0eaDVq0A4rEuksXsb0t6nU/cnJVyf6XEe\u002BzwT3swx8XTqUWz1wfigiNx9ScqSgElVYz7Gg7Rb0uLaSWZl6RaeDcXF8eRSZrA7MxRCSTAgZLgOB4yBIyZQqZahVFA7TR2He3IK7gRAmrj3aplHiYeHTwPkZzKWyyEWf4ZBzBFq1HquFFGyGDohSHSvSpyJUlIgq9VsgaHbCIurg3uTFynoS5XIF7S0O4nmhTIJFWamBZgGJcPYLFn8tQKNWIxB9ircrb6REpRoo68KGkL8E8kttYMMdYGIFDOj3opvyIJX6ASadxOJyBF/DEWVnlWYB6WZPDu/BsQP98HY6YLPZYTK1wmg0S94C9/Z2dHfSyuYq9SLKCFJ\u002B72Y/kzFttxLfSHw1Q/zY8CDxTdTeAssVJeP/aaQTB8YdTa8xV\u002BBI8UguG1DJLd1Ani2SPmielRSV0X8C/AZiPC29563MMQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T20:45:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
